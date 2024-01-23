@@ -1,0 +1,4 @@
+Webpage dibuat menggunakan React dengan framework Ionic yang
+membuat page yang dibuat mobile friendly/crossplatform
+
+Dibuka dengan menggunakan command ionic serve pada terminal
